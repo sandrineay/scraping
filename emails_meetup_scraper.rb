@@ -18,7 +18,7 @@ meetup_members_nb = 1753
 urlname = 'Le-Wagon-Berlin-Coding-Bootcamp'
 
 # 4. Then launch 'ruby emails_meetup_scraper.rb', wait for the "All done!" success message
-# 5. Once you're done open "members.json" and there you go, all your meetup members who chose to give you an email address are in there!
+# 5. Once you're done open "members.csv" and there you go, all your meetup members who chose to give you an email address are in there!
 
 ##### DO NOT MODIFY THE FOLLOWING CODE 👇 #####
 
