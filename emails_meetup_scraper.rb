@@ -3,7 +3,7 @@ require 'nokogiri'
 require 'mechanize'
 require 'csv'
 
-# 1. Create a 'members.json' file at the same level as the file path of this 'emails_meetup_scraper.rb'
+# 1. Create a 'members.csv' file at the same level as the file path of this 'emails_meetup_scraper.rb'
 # 2. Install some gems. Open your terminal and run: 'gem install nokogiri', 'gem install mechanize', 'gem install json'
 # 3. Give us the following information:
 
