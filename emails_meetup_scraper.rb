@@ -47,7 +47,7 @@ agent = Mechanize.new
 agent.get('https://secure.meetup.com/login/?_locale=fr-FR') do |page|
   form = agent.page.forms[1]
   agent.page.forms[1]['email'] = signin_email
-  agent.page.forms[1]['password'] = '&oy9OIc1M635'
+  agent.page.forms[1]['password'] = signin_password
   agent.page.forms[1].submit
 end
 
